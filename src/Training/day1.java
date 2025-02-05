@@ -7,10 +7,20 @@ public class day1 {
 		
 		int age = 35; 
 		double height = 6.1; 
-		String Color = "Brown"; 
+		String color = "Brown"; 
 		String firstName = "Zaid"; 
 		
+
+		age = 31;
+		height = 5.7;
+		color = "white";
+		firstName = "Sally";
+		
+		
+		
+
 		System.out.println(firstName + age);
+
 	}
 
 }
