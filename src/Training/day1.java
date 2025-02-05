@@ -23,6 +23,7 @@ public class day1 {
 		
 
 		System.out.println(firstName + age);
+		System.out.println(height + color);
 
 	}
 
