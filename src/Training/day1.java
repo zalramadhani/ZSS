@@ -17,6 +17,7 @@ public class day1 {
 		firstName = "Sally";
 		System.out.println("First Name: " + firstName);
 		System.out.println("Height: " + height);
+		System.out.println("Color: " + color);
 		
 		
 		
