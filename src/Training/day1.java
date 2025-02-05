@@ -10,7 +10,7 @@ public class day1 {
 		String Color = "Brown"; 
 		String firstName = "Zaid"; 
 		
-		
+		System.out.println(firstName + age);
 	}
 
 }
