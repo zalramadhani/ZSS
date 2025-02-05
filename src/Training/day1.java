@@ -5,6 +5,12 @@ public class day1 {
 		System.out.println("Zaid");
 		
 		
+		int age = 35; 
+		double height = 6.1; 
+		String Color = "Brown"; 
+		String firstName = "Zaid"; 
+		
+		
 	}
 
 }
