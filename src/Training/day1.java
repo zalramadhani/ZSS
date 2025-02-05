@@ -10,6 +10,7 @@ public class day1 {
 		String color = "Brown"; 
 		String firstName = "Zaid"; 
 		
+
 		age = 31;
 		height = 5.7;
 		color = "white";
@@ -17,6 +18,9 @@ public class day1 {
 		
 		
 		
+
+		System.out.println(firstName + age);
+
 	}
 
 }
