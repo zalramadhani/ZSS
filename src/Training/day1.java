@@ -29,6 +29,7 @@ public class day1 {
 
 		System.out.println(height + color);
 
+		System.out.println("Sally is writing a new code");
 
 	}
 
